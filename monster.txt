@@ -1,0 +1,11 @@
+Hoed
+1 20 5
+#
+Orc
+4 50 10
+#
+Koloss
+7 80 16
+#
+Black dragon Amurtaat
+9 100 22
