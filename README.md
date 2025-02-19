@@ -1,3 +1,3 @@
 ## Journey (2015)
 
-This is a game created for the C programming design course.
+This is a game created for the C programming design course in 2015.
